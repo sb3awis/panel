@@ -1,1 +1,0 @@
-ssh b7vdu8CxzCR4YBUcW2GenmZp2@sfo2.tmate.io
